@@ -36,8 +36,8 @@ ARM Macro Assembler    Page 1
    30 00000022 F1A3 0330       SUB              R3,#0X30
    31 00000026 EA44 0403       ORR              R4,R3
    32 0000002A E7FE    STOP    B                STOP
-   33 0000002C 00000037 
-                       NUM1    DCD              0X37
+   33 0000002C 00000031 
+                       NUM1    DCD              0X31
    34 00000030 00000045 
                        NUM2    DCD              0X45
    35 00000034 00000000 
